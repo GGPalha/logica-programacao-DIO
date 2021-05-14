@@ -6,11 +6,12 @@
 
 
 
-Foi utilizado o ambiente do Portugol Studio online, para a solução dos exercócios.
+Foi utilizado o ambiente do Portugol Studio online, para a solução dos exercícios.
 
 Repositório criado após finalizar aulas de introdução ao git-github, devidamente documentado e estruturado.
 
 ##### (Introdução ao Git e ao GitHub) - Otávio Reis
+
 
 
 
